@@ -19,7 +19,11 @@ function App() {
         </a>
       </header>
       <p>
+<<<<<<< HEAD
         editttt
+=======
+        Yaga
+>>>>>>> e2a76b8fda9b81d814b383db85fbbfdeda098b62
       </p>
     </div>
   );
