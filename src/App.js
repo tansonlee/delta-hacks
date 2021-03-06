@@ -18,6 +18,9 @@ function App() {
           Learn React
         </a>
       </header>
+<<<<<<< HEAD
+      <p> </p>
+=======
       <p>
 <<<<<<< HEAD
         editttt
@@ -25,6 +28,7 @@ function App() {
         Yaga
 >>>>>>> e2a76b8fda9b81d814b383db85fbbfdeda098b62
       </p>
+>>>>>>> e2a76b8fda9b81d814b383db85fbbfdeda098b62
     </div>
   );
 }
