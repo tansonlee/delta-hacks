@@ -1,0 +1,16 @@
+.navbar {
+	background-color: gray;
+	height: 10vh;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 24px;
+}
+
+.nav-link {
+	color: black;
+}
+
+.logo-link {
+	text-decoration: none;
+}
