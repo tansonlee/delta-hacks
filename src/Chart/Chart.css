@@ -1,0 +1,13 @@
+.chart-wrapper {
+	width: 80vw;
+	margin: 0 auto;
+	padding: 30px;
+	background-color: rgba(116, 208, 199, 0.24);
+	border-radius: 10px;
+	text-align: center;
+}
+
+.chart-title {
+	color: rgb(45, 45, 45);
+	font-family: Arial, Helvetica, sans-serif;
+}

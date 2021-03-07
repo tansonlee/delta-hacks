@@ -15,6 +15,9 @@ function Navbar() {
 				<Link className="nav-link" to="/vaccinations">
 					Vaccinations
 				</Link>
+				<Link className="nav-link" to="/vaccine-tracker">
+					Vaccine Tracker
+				</Link>
 				<Link className="nav-link" to="/cases">
 					Cases
 				</Link>
